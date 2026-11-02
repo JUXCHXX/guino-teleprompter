@@ -224,6 +224,9 @@ sharingType = .none
 
 ## 🏗️ Arquitectura
 
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/juxchxx/guino-teleprompter?utm_source=readme&utm_medium=badge)
+
+
 El proyecto se organiza por responsabilidades:
 
 ```text
@@ -432,6 +435,3 @@ Hecho con ❤️ para quienes quieren hablar con confianza.
 
 </div>
 
-## Como esta construido.
-
-[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/juxchxx/guino-teleprompter?utm_source=readme&utm_medium=badge)
